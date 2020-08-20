@@ -38,19 +38,19 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />]
+</hr>
 
+---
 
-<details>
-  <summary>:zap: Github Stats</summary>  <br>
+### Github Stats:
 
 <img alt="Rakesh S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakeshShankar&count_private=true&show_icons=true&theme=tokyonight&bg_color=white"><br>
 
 <img alt="Rakesh S's Github Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshShankar">
+</hr>
 
+---
 
-
-
-</details>
 
 [twitter]: https://twitter.com/Rakesh8892085
 [instagram]: https://instagram.com/rakeshshankar18
