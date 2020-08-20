@@ -2,7 +2,7 @@
 
 ## I'm a Software Enginner by profession!!!
 
--  I’m currently learning everything.
+-  I’m currently learning and exploring everything.
 -  2020 Goals: Contribute more to Open Source projects.
 -  Fun fact: I love to watch and play more cricket.
 
@@ -38,7 +38,7 @@
   <summary>:zap: Github Stats</summary>  <br>
 
 <img align="left" alt="Rakesh S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakeshShankar&count_private=true&show_icons=true&theme=tokyonight&bg_color=white">
-<p></p>
+<br>
 <img align="left" alt="Rakesh S's Github Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshShankar">
 
 
