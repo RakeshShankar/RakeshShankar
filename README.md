@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: Github Stats</summary>  <br>
 
-<img align="left" alt="Rakesh S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakeshShankar&count_private=true&show_icons=true&theme=tokyonight&bg_color=white">
+<img align="left" alt="Rakesh S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakeshShankar&count_private=true&show_icons=true&theme=tokyonight&bg_color=white"><br /><br />
 
 <img align="left" alt="Rakesh S's Github Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshShankar">
 
