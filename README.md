@@ -3,7 +3,7 @@
 ## I'm a Software Engineer by profession!!!
 
 -  I’m currently learning and exploring everything.
--  2020 Goals: Contribute more to Open Source projects.
+-  2021 Goals: Contribute more to Open Source projects.
 -  Fun fact: I love to watch and play more cricket.
 
 ### Connect with me:
