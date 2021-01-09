@@ -61,4 +61,4 @@
 
 [twitter]: https://twitter.com/Rakesh8892085
 [instagram]: https://instagram.com/rakeshshankar18
-[linkedin]: https://linkedin.com/in/rakesh-s-b76779111
+[linkedin]: https://www.linkedin.com/in/rakeshshankar05/
