@@ -1,6 +1,6 @@
 ### Hi there, I'm Rakesh S 👋
 
-## I'm a Software Engineer by profession!!!
+## I'm a Software Engineer by profession and book reader by interest!!!
 
 -  I’m currently learning and exploring everything.
 -  2022 Goals: Contribute more to Open Source projects.
